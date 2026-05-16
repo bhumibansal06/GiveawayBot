@@ -6,7 +6,7 @@ A feature-rich giveaway bot for Discord with both slash and prefix commands, rea
 
 - ✅ **Dual Command Support** - Slash (`/`) and prefix (`!`) commands
 - ⏱️ **Natural Time Parsing** - Supports formats like `1d`, `2h 30m`, `1week`
-- 🎉 **Reaction-Based Entry** - Users react to join giveaways
+- 🎉 **Reaction-Based Entry yaaayyyy** - Users react to join giveaways
 - 🔄 **Reroll System** - Pick new winners after a giveaway ends
 - 📊 **Statistics Tracking** - View active/ended giveaways and server stats
 - 🛡️ **Permission Controls** - Only admins can manage giveaways
